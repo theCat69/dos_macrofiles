@@ -1,0 +1,12 @@
+lsl=ls -ltr
+ex=explorer .
+vim=nvim .
+jv=bf-j-vm $*
+docker=podman $*
+ij=idea64 .
+gd=cd %DEV%
+gn=cd %NVIM_PATH%
+gw=cd %WEZTERM_CONFIG_DIR%
+gc=cd %CLINK_PATH%
+cdi=zi
+grep=rg $*
